@@ -6,12 +6,22 @@ main, footer {
   margin: 2%;
 }
 
+footer, .about-us-description {
+  text-align: center;
+}
+
 html {
   scroll-behavior: smooth;
 }
 
 * {
   font-family: "Open Sans", sans-serif;
+}
+
+.carousel {
+  width: 50%;
+  height: 50%;
+  margin: auto;
 }
 
 /*# sourceMappingURL=index.css.map */
