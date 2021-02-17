@@ -1,11 +1,11 @@
 header {
     text-align: center;
 }
-#headerImage {
-    
-}
 main, footer {
     margin: 2%;
+}
+footer, .about-us-description {
+    text-align: center;
 }
 html {
     scroll-behavior: smooth;
@@ -13,3 +13,8 @@ html {
 * {
     font-family: 'Open Sans', sans-serif;
 }
+.carousel {
+    width:50%;
+    height:50%;
+    margin: auto;
+  }
